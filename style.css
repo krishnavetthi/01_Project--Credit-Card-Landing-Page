@@ -361,7 +361,3 @@ img[alt="Rectanglefront"]{
     list-style: none;
 }
 
-.container{
-    /* overflow:hidden; */
-    overflow-y: hidden;
-}
