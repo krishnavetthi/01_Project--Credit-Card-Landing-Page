@@ -1,5 +1,5 @@
 body{
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     color:white;
     background-color: rgb(39, 28, 28);
     margin:0px 0px 0px 0px;
@@ -362,5 +362,6 @@ img[alt="Rectanglefront"]{
 }
 
 .container{
-    overflow:hidden;
+    /* overflow:hidden; */
+    overflow-y: hidden;
 }
