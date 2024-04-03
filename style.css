@@ -1,3 +1,8 @@
+.container1{
+    /* overflow:hidden; */
+    overflow-y: hidden;
+}
+
 body{
     /* overflow-x: hidden; */
     color:white;
@@ -361,7 +366,3 @@ img[alt="Rectanglefront"]{
     list-style: none;
 }
 
-.container{
-    /* overflow:hidden; */
-    overflow-y: hidden;
-}
