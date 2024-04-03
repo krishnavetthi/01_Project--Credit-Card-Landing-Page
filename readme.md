@@ -1,5 +1,1 @@
-# Replicate the Following Output
-
-`Assests are Provided!`
-
-![Project 1](./Credit%20card%20landing%20page.png)
+https://krishnavetthi.github.io/01_Project--Credit-Card-Landing-Page/
